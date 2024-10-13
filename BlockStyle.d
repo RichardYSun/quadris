@@ -1,0 +1,1 @@
+BlockStyle.o: BlockStyle.cpp
